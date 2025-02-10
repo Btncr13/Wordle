@@ -1,0 +1,8 @@
+¡Bienvenido a Wordle! Tienes 6 intentos.
+Intento: perro | Feedback: [33mp[0m[90me[0m[90mr[0m[90mr[0m[32mo[0m | Intentos restantes: 5
+¡Felicidades! Has adivinado la palabra: campo
+¡Bienvenido a Wordle! Tienes 6 intentos.
+Intento: gatos | Feedback: [90mg[0m[90ma[0m[90mt[0m[33mo[0m[90ms[0m | Intentos restantes: 5
+Intento: golpe | Feedback: [90mg[0m[33mo[0m[90ml[0m[90mp[0m[90me[0m | Intentos restantes: 4
+Intento: junio | Feedback: [90mj[0m[32mu[0m[32mn[0m[90mi[0m[32mo[0m | Intentos restantes: 3
+¡Felicidades! Has adivinado la palabra: mundo
