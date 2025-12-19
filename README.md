@@ -48,5 +48,5 @@ Este proyecto se centra en la **algoritmia pura**: no utiliza interfaz gráfica 
 
 ## 👤 Autor
 
-**César** - *Desarrollador Full Stack en formación*
+**César Betancor** - *Desarrollador Full Stack en formación*
 [LinkedIn](https://www.linkedin.com/in/cesarbetancorcano/) | [Portfolio](https://btncr13.github.io/portfolio/)
